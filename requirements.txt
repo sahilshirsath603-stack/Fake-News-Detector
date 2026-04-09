@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+nltk
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+google-generativeai
+python-dotenv
+accelerate
